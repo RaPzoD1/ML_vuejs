@@ -1,5 +1,5 @@
 # fabrica-menes
-
+Cambiar las credencias de firebase y googlecloud por las suyas para probar el programa
 ## Project setup
 ```
 npm install
